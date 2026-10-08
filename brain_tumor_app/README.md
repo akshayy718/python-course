@@ -34,7 +34,7 @@ and 98 without. The dataset itself is not included in this repository.
 - Low-confidence predictions show a warning
 
 ## Live app
-(Add your Streamlit Community Cloud link here after deploying.)
+https://braintumoraiml.streamlit.app/
 
 ## How to run locally
 1. App only: `pip install -r requirements.txt`
