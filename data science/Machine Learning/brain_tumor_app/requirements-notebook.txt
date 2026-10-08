@@ -1,0 +1,6 @@
+# Extra libraries needed only to run the training notebook (not needed by the app)
+-r requirements.txt
+matplotlib
+seaborn
+scikit-learn
+ipykernel
